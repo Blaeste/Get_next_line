@@ -1,5 +1,3 @@
-# Get_next_line 42
-
 <p align="center">
   <img src="https://github.com/Blaeste/gifforgeek/blob/main/giphy.webp" alt="animated" />
 </p>
@@ -20,14 +18,4 @@
   </a>
 
   <h3 align="center">Get Next Line</h3>
-
-  <p align="center">
-	  <em>Reading a line on a fd is way too tedious</em><br/>
-    A C function that returns a line ending with a newline, read from a file descriptor
-    <br />
-    <br />
-    <a href="https://github.com/Link-Wolf/get_next_line/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/Link-Wolf/get_next_line/issues">Request Feature</a>
-  </p>
 </div>
