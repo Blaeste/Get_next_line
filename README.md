@@ -7,7 +7,7 @@
 <div id="top"></div>
 
 <div align="center">
-	<a href="https://github.com/Link-Wolf/get_next_line" title="Go to GitHub repo"><img src="https://img.shields.io/static/v1?label=Link-Wolf&message=get_next_line&color=blue&logo=github&style=for-the-badge" alt="Link-Wolf - get_next_line"></a>
+	<a href="https://github.com/Blaeste/Get_next_line" title="My repo"><img src="https://img.shields.io/static/v1?label=Link-Wolf&message=get_next_line&color=blue&logo=github&style=for-the-badge" alt="Link-Wolf - get_next_line"></a>
 	<a href="https://"><img src="https://img.shields.io/badge/42_grade-125_%2F_100-2ea44f?style=for-the-badge" alt="42 grade - 125 / 100"></a>
 	<a href="https://"><img src="https://img.shields.io/badge/Year-2022-ffad9b?style=for-the-badge" alt="Year - 2022"></a>
 	<a href="https://github.com/Link-Wolf/get_next_line/stargazers"><img src="https://img.shields.io/github/stars/Link-Wolf/get_next_line?style=for-the-badge&color=yellow" alt="stars - get_next_line"></a>
