@@ -5,6 +5,7 @@
 
   <h3 align="center">Get Next Line</h3>
 </div>
+</br>
 
 <p align="center">
   <img src="https://github.com/Blaeste/gifforgeek/blob/main/giphy.webp" alt="animated" />
