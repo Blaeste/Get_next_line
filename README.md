@@ -1,3 +1,7 @@
+<head>
+	<meta name="google-site-verification" content="E75h0JYKy6feNWamyw7jsadK5P8WZGavKiewzM5J6xQ" />
+</head>
+
 <div align="center">
   <a>
     <img src="https://www.42mulhouse.fr/wp-content/uploads/2022/06/logo-42-Mulhouse-white.svg" alt="Logo" width="192" height="80">
