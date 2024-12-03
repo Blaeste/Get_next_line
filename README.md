@@ -2,6 +2,7 @@
 <html>
 	<head>
 		<meta name="google-site-verification" content="E75h0JYKy6feNWamyw7jsadK5P8WZGavKiewzM5J6xQ" />
+		<title>Example Title</title>
 	</head>
 	<body>
 		<div align="center">
